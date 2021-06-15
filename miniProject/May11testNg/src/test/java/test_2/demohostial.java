@@ -13,6 +13,7 @@ public class demohostial {
 		driver.get("https://www.practo.com");
 		WebElement s= driver.findElement(By.xpath("//input[@placeholder='Search location']"));
 		s.click();
+//Demo
 		s.sendKeys("Bangalore");
 		WebElement h = driver.findElement(By.xpath("//input[@data-qa-id='omni-searchbox-keyword']"));
 		h.click();
