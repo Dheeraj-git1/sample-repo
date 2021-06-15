@@ -1,3 +1,3 @@
 # Sample 
 
-Hello.
+Hello!
